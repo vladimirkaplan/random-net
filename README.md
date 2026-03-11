@@ -29,15 +29,15 @@ How It Works
 
 Usage
 
-Simply run the script from your terminal.
-Bash
+    Simply run the script from your terminal.
+    Bash
 
-python generate_subnet.py
+    python generate_subnet.py
 
-Example Output:
-Plaintext
+    Example Output:
+    laintext
 
---- Unique /24 LAN Generated ---
-Network ID:    172.23.145.0/24
-Usable Hosts:  254
-Saved to:      used_networks.json
+    --- Unique /24 LAN Generated ---
+    Network ID:    172.23.145.0/24
+    Usable Hosts:  254
+    Saved to:      used_networks.json
